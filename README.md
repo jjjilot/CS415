@@ -10,4 +10,4 @@ Upon successful completion of the course, students will have acquired the follow
   - Demonstrate the ability to develop programs using processes and threads
   - Demonstrate the ability to use synchronization mechanisms in concurrent programs
 
-Taught by Prof. Allen D. Malony at University of Oregon
+Taught by Prof. Allen D. Malony at University of Oregon.
